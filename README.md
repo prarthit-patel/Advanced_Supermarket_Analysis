@@ -25,7 +25,7 @@ This project provides an **advanced business analysis** of supermarket sales, co
 2. Open `supermarket_sales_analysis.py` to see the full analysis.
 3. Read `supermarket_sales_report.md` for detailed business insights.
 
-## Author
+## **🧑🏻‍💻 Author**
 **Prarthit Patel**  
 [LinkedIn](https://linkedin.com/in/prarthit-patel)  
 Business Analyst | Logistics & Data Enthusiast
