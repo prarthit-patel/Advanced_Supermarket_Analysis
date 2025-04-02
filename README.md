@@ -24,3 +24,8 @@ This project provides an **advanced business analysis** of supermarket sales, co
 1. Visit the GitHub repository.
 2. Open `supermarket_sales_analysis.py` to see the full analysis.
 3. Read `supermarket_sales_report.md` for detailed business insights.
+
+## Author
+**Prarthit Patel**  
+[LinkedIn](https://linkedin.com/in/prarthit-patel)  
+Business Analyst | Logistics & Data Enthusiast
